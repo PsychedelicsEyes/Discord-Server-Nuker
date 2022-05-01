@@ -6,7 +6,9 @@ module.exports = {
     spamMessage: 'spam message',
     guildName: 'guild rename',
     guildIcon: 'guild icon change(link)',
-    status1: 'status 1',
-    status2: 'status 2',
-    status3: 'status 3'
+    status1: 'status1',
+    status2: 'status2',
+    status3: 'status3',
+    pfpChange: `pdp image`,//link image
+    namebotChange:'bot name'
 }

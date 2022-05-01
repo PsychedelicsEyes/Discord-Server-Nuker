@@ -38,6 +38,9 @@ client.on('message', async(message) => {
         message.guild.setName(config.guildName)
         message.guild.setIcon(config.guildIcon)
 
+       
+        client.user.setUsername(config.namebotChange)
+        client.user.setAvatar(config.pfpChange)
          setInterval(function() {
 
             const channelName = config.channelName
@@ -79,7 +82,6 @@ client.on('message', async(message) => {
         type: "GUILD_TEXT",
         })
     }
-
 })
 
 
