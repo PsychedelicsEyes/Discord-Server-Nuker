@@ -9,7 +9,7 @@
 ```js
 module.exports = {
     token: 'bot token',
-    prefix: 'bot prefiw',
+    prefix: 'bot prefix',
     channelName: 'channel spam name', 
     roleName: 'roles spam name',
     spamMessage: 'spam message',
