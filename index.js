@@ -10,9 +10,9 @@ const prefix = config.prefix
 client.on('ready', async() => {
     
     const activities = [
-        `CIPHER ON TOP`,
-        `CIPHER FUCKER`,
-        `discord.gg/cipher`,
+        config.status1,
+        config.status2,
+        config.status3,
     ];
 
     let i = 0;
@@ -28,7 +28,7 @@ client.on('ready', async() => {
     console.log(`┃     ${config.prefix}clear => clear all channels and roles                                 ┃`)
     console.log(`┃     ${config.prefix}fuck => allows to raid the server                                     ┃`)
     console.log(`┃                                                                            ┃`)
-    console.log(`┃                          ]                                                 ┃`)
+    console.log(`┃                       ]                                                    ┃`)
     console.log(`┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛`)
 })
 
