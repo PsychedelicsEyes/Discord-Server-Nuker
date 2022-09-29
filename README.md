@@ -33,4 +33,4 @@ module.exports = {
 ### My contact: PsychedelicsEyes.php#6978
 ### Discord server: 
 ### discord.gg/punchnox
-### discord.gg/cipher
+
