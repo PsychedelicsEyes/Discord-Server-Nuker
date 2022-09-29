@@ -31,6 +31,3 @@ module.exports = {
 
 ### The disord nuker was made with ❤
 ### My contact: PsychedelicsEyes.php#6978
-### Discord server: 
-### discord.gg/punchnox
-
